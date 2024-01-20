@@ -20,7 +20,7 @@ body {
 
 .top-header .name {
 	font-size: 26px;
-	width: 100%;
+	/* width: auto; */
 }
 
 .nav ul {
